@@ -1,0 +1,18 @@
+img {
+    height: 200px;
+    width: 300px;
+}
+.movie {
+    height:400px;
+    width:300px;
+}
+html {
+    text-align: center;
+    background-color:black;
+}
+h1 {
+    color:gold;
+}
+h2 {
+    color:gold;
+}
