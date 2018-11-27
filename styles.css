@@ -5,14 +5,28 @@ img {
 .movie {
     height:400px;
     width:300px;
+    
 }
 html {
-    text-align: center;
+    text-align:center;
     background-color:black;
 }
 h1 {
     color:gold;
+    font-family: 'Bungee Inline', cursive;
 }
 h2 {
     color:gold;
+}
+p {
+    color:gold;
+}
+.TV {
+    font-family: 'Sancreek', cursive;
+}
+.actor {
+    font-family: 'Sonsie One', cursive;
+}
+.game {
+    font-family: 'Combo', cursive;
 }
